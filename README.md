@@ -47,6 +47,5 @@ Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOL
  3. Week3 - [Sequence models & Attention mechanism](https://github.com/SebMontreal06/Deep-Learning/tree/master/Sequence%20Models/Week3)
  
  
- ### YaY! Finally done!!!
 
 
